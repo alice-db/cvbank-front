@@ -1,0 +1,33 @@
+[
+  {
+    "firstName" : "John",
+    "lastName" : "Doe",
+    "languages" : [
+      "Java",
+      "NodeJS"
+    ]
+  },
+  {
+    "firstName" : "Sarah",
+    "lastName" : "Goldman",
+    "languages" : [
+      "C",
+      "C#"
+    ]
+  },
+  {
+    "firstName" : "Raymond",
+    "lastName" : "Cotier",
+    "languages" : [
+      "Perl",
+      "Javascript"
+    ]
+  },
+  {
+    "firstName" : "Marie",
+    "lastName" : "Huot",
+    "languages" : [
+      "Ocaml"
+    ]
+  }
+]
